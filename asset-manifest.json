@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GiorgiMatchvavariani/tenzies/static/css/main.6734dcc6.css",
+    "main.js": "/GiorgiMatchvavariani/tenzies/static/js/main.b87b21bc.js",
+    "static/js/787.28cb0dcd.chunk.js": "/GiorgiMatchvavariani/tenzies/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/GiorgiMatchvavariani/tenzies/index.html",
+    "main.6734dcc6.css.map": "/GiorgiMatchvavariani/tenzies/static/css/main.6734dcc6.css.map",
+    "main.b87b21bc.js.map": "/GiorgiMatchvavariani/tenzies/static/js/main.b87b21bc.js.map",
+    "787.28cb0dcd.chunk.js.map": "/GiorgiMatchvavariani/tenzies/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6734dcc6.css",
+    "static/js/main.b87b21bc.js"
+  ]
+}
